@@ -11,6 +11,6 @@ include 'fun2_stringLength.php';
     }
     return $newText;
 }
-echo partOpString('hello world',6);
+//echo partOpString('hello world',6);
 
 ?>

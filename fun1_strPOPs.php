@@ -8,5 +8,5 @@ function strPOPs($str,$letter){
             }
         }
     }
-echo strPOPs('hello','l');
+//echo strPOPs('hello','l');
 ?>

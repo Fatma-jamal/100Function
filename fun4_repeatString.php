@@ -8,5 +8,5 @@ function repeatString($text,$times){
 
 }
 
-repeatString('hello',5);
+//repeatString('hello',5);
 ?>

@@ -12,6 +12,6 @@ include 'fun2_stringLength.php';
     }
     return $newText;
 }
-echo strSlashBefore('hello','l');
+//echo strSlashBefore('hello','l');
 
 ?>

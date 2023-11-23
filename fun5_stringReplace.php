@@ -15,5 +15,5 @@ function stringReplace($text1,$text2,$originalText){
     }
     return $result;
 }
-echo stringReplace('world','Peter','Hello world!');
+//echo stringReplace('world','Peter','Hello world!');
 ?>
