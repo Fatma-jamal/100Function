@@ -7,5 +7,5 @@ function stringLength($text){
     return $counter;
 
 }
-echo stringLength('hello');
+//echo stringLength('hello');
 ?>
